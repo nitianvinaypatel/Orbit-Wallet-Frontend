@@ -13,7 +13,8 @@ A React Native application featuring a search screen with trending hashtags, top
 
 ## Screenshots
 
-Screenshot_2025_0316_115804.jpg
+![Screenshot](https://github.com/user-attachments/assets/4d5c561e-c6b0-44db-8a4c-8848f3218f27)
+
 
 ## Installation
 
