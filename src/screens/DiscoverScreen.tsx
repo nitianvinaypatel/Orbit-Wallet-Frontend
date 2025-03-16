@@ -9,12 +9,12 @@ import {
   Platform,
 } from 'react-native';
 import {SafeAreaView} from 'react-native-safe-area-context';
-import SectionHeader from '../components/home/SectionHeader';
-import TrendingHashtags from '../components/home/TrendingHashtags';
-import TopCommunities from '../components/home/TopCommunities';
-import TopNomad from '../components/home/TopNomad';
-import TopSearchOfTheDay from '../components/home/TopSearchOfTheDay';
-import Header from '../components/home/Header';
+import SectionHeader from '../components/discover/SectionHeader';
+import TrendingHashtags from '../components/discover/TrendingHashtags';
+import TopCommunities from '../components/discover/TopCommunities';
+import TopNomad from '../components/discover/TopNomad';
+import TopSearchOfTheDay from '../components/discover/TopSearchOfTheDay';
+import Header from '../components/discover/Header';
 
 // Mock data
 const FEATURED_DATA = {
